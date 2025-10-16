@@ -1,0 +1,5 @@
+cenario,orcamento,n_shows,custo,gosto,delta_shows_vs_BASE,delta_custo_vs_BASE,delta_gosto_vs_BASE
+BASE,3000.00,10,2920,64.50,0,0.00,0.00
+BUDGET_2600,2600.00,9,2570,58.50,-1,-350.00,-6.00
+BUDGET_3200,3200.00,10,3170,66.50,0,250.00,2.00
+MAND_TAYLOR_OR_BEYONCE,3000.00,9,2970,61.50,-1,50.00,-3.00
